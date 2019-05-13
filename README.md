@@ -1,7 +1,7 @@
 # vue-crm
 
 前端基于vue、ele-ui开发。
-是 crms(https://github.com/Sidnvar/cmrs) 项目的前端
+是 crms(https://github.com/Sidnvar/crms) 项目的前端
 
 暂时只开发
 角色管理
